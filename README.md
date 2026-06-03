@@ -32,13 +32,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
-📊 GitHub Stats
-
-"Rutuja's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=rutuja672&show_icons=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=rutuja672&layout=compact)
-
----
 
 💻 Projects
 
@@ -63,7 +56,17 @@
 🌟 First 50 Students in GDSC Google Drive Service Camp
 
 ---
+🎯 Current Goals
+
+- Learn Machine Learning in depth
+- Build strong GitHub projects
+- Contribute to open-source projects
+- Secure an AIML Internship
+- Improve DSA and problem-solving skills
+---
 
 🌸 Fun Fact
 
 I combine Technology, Art, Poetry and Social Service to create meaningful impact.
+
+⭐ Thanks for visiting my profile!
