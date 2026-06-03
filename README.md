@@ -21,13 +21,17 @@
 ☁️ Cloud Computing Enthusiast
 
 ---
+### 🚀 Tech Stack
 
-🚀 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github"/>
-</p>---
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 📊 GitHub Stats
 
 "Rutuja's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=rutuja672&show_icons=true)
